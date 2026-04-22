@@ -1,7 +1,8 @@
 import React from 'react';
 import './Home.css';
-
+import profile from "../assets/profile.jpeg";
 const Home = () => {
+
   const skills = [
     { name: 'Python', icon: '🐍', level: 90 },
     { name: 'C++', icon: '⚡', level: 85 },
@@ -42,11 +43,11 @@ const Home = () => {
           <div className="hero-image-container">
             <div className="image-glow"></div>
             <div className="profile-image-wrapper">
-              <img 
-                src="build/profile.jpeg" 
-                alt="N. Likitha" 
-                className="profile-image"
-              />
+              <img
+  src={profile}   
+  alt="N. Likitha"
+  className="profile-image"
+/>
             </div>
             <div className="hero-badges">
               <span className="badge">🎓 B.Tech AI</span>
