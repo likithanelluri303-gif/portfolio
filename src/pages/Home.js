@@ -43,7 +43,7 @@ const Home = () => {
             <div className="image-glow"></div>
             <div className="profile-image-wrapper">
               <img 
-                src="%PUBLIC_URL%/profile.jpeg" 
+                src="build/profile.jpeg" 
                 alt="N. Likitha" 
                 className="profile-image"
               />
