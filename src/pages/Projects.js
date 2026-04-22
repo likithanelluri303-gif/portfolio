@@ -104,7 +104,7 @@ const Projects = () => {
           <p className="cta-description">
             Feel free to reach out if you'd like to discuss projects, opportunities, or just to say hello!
           </p>
-          <a href="mailto:your.email@gitam.in" className="cta-button">
+          <a href="mailto:likithanelluri303@gmail.com" className="cta-button">
             Get In Touch
           </a>
         </div>
@@ -112,11 +112,11 @@ const Projects = () => {
 
       <footer className="footer">
         <div className="footer-container">
-          <p className="footer-text">© 2024 Your Name. All Rights Reserved.</p>
+          <p className="footer-text">© 2024 N. Likitha. All Rights Reserved.</p>
           <div className="footer-links">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="footer-link">GitHub</a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="footer-link">LinkedIn</a>
-            <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" className="footer-link">LeetCode</a>
+            <a href="https://github.com/likithanelluri303-gif" target="_blank" rel="noopener noreferrer" className="footer-link">GitHub</a>
+            <a href="https://www.linkedin.com/in/likitha-nelluri-934456333" target="_blank" rel="noopener noreferrer" className="footer-link">LinkedIn</a>
+            <a href="https://leetcode.com/u/f7zat4DZST" target="_blank" rel="noopener noreferrer" className="footer-link">LeetCode</a>
           </div>
         </div>
       </footer>

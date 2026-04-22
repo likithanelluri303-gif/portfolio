@@ -27,31 +27,31 @@ const Home = () => {
         <div className="hero-content">
           <div className="hero-text">
             <span className="hero-greeting">Hello, I'm</span>
-            <h1 className="hero-name">Your Name</h1>
+            <h1 className="hero-name">N. Likitha</h1>
             <h2 className="hero-title">B.Tech AI Student</h2>
             <p className="hero-description">
-              Passionate third-year Artificial Intelligence student at Gitam University 
+              Passionate third-year Artificial Intelligence student at Mahindra University 
               with a strong foundation in machine learning, data science, and software development. 
               Dedicated to building innovative AI solutions and contributing to cutting-edge research.
             </p>
             <div className="hero-cta">
               <a href="#projects" className="btn-primary">View Projects</a>
-              <a href="mailto:your.email@gitam.in" className="btn-secondary">Get In Touch</a>
+              <a href="mailto:likithanelluri303@gmail.com" className="btn-secondary">Get In Touch</a>
             </div>
           </div>
           <div className="hero-image-container">
             <div className="image-glow"></div>
             <div className="profile-image-wrapper">
               <img 
-                src="https://api.dicebear.com/7.x/avataaars/svg?seed=portfolio&backgroundColor=6366f1" 
-                alt="Profile" 
+                src="%PUBLIC_URL%/profile.jpeg" 
+                alt="N. Likitha" 
                 className="profile-image"
               />
             </div>
             <div className="hero-badges">
               <span className="badge">🎓 B.Tech AI</span>
               <span className="badge">📚 3rd Year</span>
-              <span className="badge">🚀 Gitam University</span>
+              <span className="badge">🚀 Mahindra University</span>
             </div>
           </div>
         </div>
@@ -66,7 +66,7 @@ const Home = () => {
           <div className="about-content">
             <div className="about-card">
               <p className="about-text">
-                I am a motivated third-year B.Tech student specializing in Artificial Intelligence at Gitam University. 
+                I am a motivated third-year B.Tech student specializing in Artificial Intelligence at Mahindra University. 
                 With a strong academic foundation and practical project experience, I aim to bridge the gap between 
                 theoretical AI concepts and real-world applications. My journey includes working on machine learning 
                 models, data analysis projects, and developing intelligent web applications.
@@ -135,21 +135,21 @@ const Home = () => {
               <span className="contact-icon">📱</span>
               <div className="contact-info">
                 <span className="contact-label">Phone</span>
-                <a href="tel:+919999999999" className="contact-value">+91 99999 99999</a>
+                <a href="tel:+918121152390" className="contact-value">+91 8121152390</a>
               </div>
             </div>
             <div className="contact-card">
               <span className="contact-icon">📧</span>
               <div className="contact-info">
                 <span className="contact-label">Personal Email</span>
-                <a href="mailto:your.email@gmail.com" className="contact-value">your.email@gmail.com</a>
+                <a href="mailto:likithanelluri303@gmail.com" className="contact-value">likithanelluri303@gmail.com</a>
               </div>
             </div>
             <div className="contact-card">
               <span className="contact-icon">🎓</span>
               <div className="contact-info">
                 <span className="contact-label">College Email</span>
-                <a href="mailto:your.email@gitam.in" className="contact-value">your.email@gitam.in</a>
+                <a href="mailto:se23uari083@mahindrauniversity.edu.in" className="contact-value">se23uari083@mahindrauniversity.edu.in</a>
               </div>
             </div>
             <div className="contact-card">
@@ -165,11 +165,11 @@ const Home = () => {
 
       <footer className="footer">
         <div className="footer-container">
-          <p className="footer-text">© 2024 Your Name. All Rights Reserved.</p>
+          <p className="footer-text">© 2024 N. Likitha. All Rights Reserved.</p>
           <div className="footer-links">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="footer-link">GitHub</a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="footer-link">LinkedIn</a>
-            <a href="https://leetcode.com" target="_blank" rel="noopener noreferrer" className="footer-link">LeetCode</a>
+            <a href="https://github.com/likithanelluri303-gif" target="_blank" rel="noopener noreferrer" className="footer-link">GitHub</a>
+            <a href="https://www.linkedin.com/in/likitha-nelluri-934456333" target="_blank" rel="noopener noreferrer" className="footer-link">LinkedIn</a>
+            <a href="https://leetcode.com/u/f7zat4DZST" target="_blank" rel="noopener noreferrer" className="footer-link">LeetCode</a>
           </div>
         </div>
       </footer>
